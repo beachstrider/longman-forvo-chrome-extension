@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "EK Longman",
+    "description": "Simple, yet handy chrome extension for fans of longman dictionary.",
+    "version": "1.0",
+    "permissions": ["webNavigation"],
+    "host_permissions": [
+        "*://*/*"
+    ],
+    "background": {
+        "service_worker": "service-worker.js"
+    }
+}
