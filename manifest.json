@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "EK Longman",
+    "name": "Longman Forvo",
     "description": "Simple, yet handy chrome extension for fans of longman dictionary.",
-    "version": "1.0",
+    "version": "2.0",
     "permissions": ["webNavigation"],
     "host_permissions": [
         "*://*/*"
